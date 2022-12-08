@@ -1,0 +1,3 @@
+import InitTest
+
+print(InitTest)
